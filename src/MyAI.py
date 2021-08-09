@@ -2,6 +2,7 @@
 # FILE:			MyAI.py
 #
 # AUTHOR: 		Justin Chung
+# AI IMPLEMENTED BY: 	Raffay Rashed
 #
 # DESCRIPTION:	This file contains the MyAI class. You will implement your
 #				agent in this file. You will write the 'getAction' function,
